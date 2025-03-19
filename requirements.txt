@@ -1,0 +1,2 @@
+# No external dependencies required
+# Using native macOS notifications via osascript 
